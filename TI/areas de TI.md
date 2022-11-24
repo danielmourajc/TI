@@ -6,11 +6,11 @@ Ciência de Dados
 Cloud (Computação em Nuvem)
 Cybersecurity
 Deep Learning
+Desenvolvimento de Games
+Desenvolvimento de Sistemas
+Desenvolvimento Mobile
+Desenvolvimento Web
 Design Gráfico
-DEV Games
-DEV Mobile
-DEV Sistemas
-DEV Web
 Devops
 Front-End
 Full-Stack
